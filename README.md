@@ -161,7 +161,6 @@ zhixue-reading-bot/
 ├── check_env.py        # 环境自检：依赖 / 模拟器 / 虚拟声卡 / TTS
 ├── requirements.txt    # Python 依赖
 ├── README.md           # 本文件
-├── PUBLISH.md          # 如何发布到 GitHub
 ├── LICENSE             # MIT
 ├── shots/              # 运行截图（自动生成，已被 .gitignore 忽略）
 └── tmp_seg.mp3         # 当前段语音（自动生成，已忽略）
