@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 运行时产物
+tmp_seg.mp3
+shots/
+*.log
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 绝对不要提交：安装包、驱动、账号信息、作业截图
+*.apk
+*.apks
+*.zip
+*.rar
+VBCABLE*
+*.png
+*.jpg
+*.jpeg
+cookies*
+*.cookie
